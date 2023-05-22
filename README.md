@@ -30,7 +30,7 @@ To run the game, make sure you have the following prerequisites installed:
 
 ## How to Run, Getting Started
 
- - Clone the repository: git clone https://github.com/kaszasat/TopDownAirplaneShooter.git
+ - Clone the repository: git clone https://github.com/kaszasat/TopDownAirplaneShooter
  - Open the project in your preferred Java development environment.
  - Build the project to compile the source code.
  - Run the game and start playing.
