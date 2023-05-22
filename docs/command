@@ -1,0 +1,2 @@
+#Command to convert .mp4 file to .gif
+ffmpeg -i output.mp4 output.gif  -filter_complex "[0:v] fps=30"
