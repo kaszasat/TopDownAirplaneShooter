@@ -45,7 +45,7 @@ This project is licensed under the MIT License.
 The game was inspired by classic top-down shooter games. Top Down Airplane Shooter draws inspiration from the classic top-down shooter games and aims to provide a fun and engaging gaming experience. The project acknowledges the contributions and resources from the open-source community, which have played a significant role in its development.
 
 
-Thank you, Haaax, for your valuable contribution to the development of the Top Down Airplane Shooter project! Your dedication and expertise have made this project a reality. Your work on implementing the smoothing of the movement of enemy planes, and the DPI scaling greatly enhanced the gameplay experience. Your commitment to creating a fun and engaging game is truly appreciated.
+Thank you, Haaax, for your valuable contribution to the development of the Top Down Airplane Shooter project! Your dedication and expertise have made this project a reality. Your work on implementing the smoothing of the movement of enemy planes, and the development of different monitor size compatibility greatly enhanced the gameplay experience. Your commitment to creating a fun and engaging game is truly appreciated.
 
 ## Project Status
 Top Down Airplane Shooter is a completed project and is no longer actively maintained. However, the code and game are available for reference and educational purposes. Enjoy playing the game!
