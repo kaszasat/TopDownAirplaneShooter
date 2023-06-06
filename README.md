@@ -38,8 +38,6 @@ To run the game, make sure you have the following prerequisites installed:
     * Press the Space key to shoot projectiles and attack enemy planes.
     * Survive as long as possible and shoot down as many enemy planes as you can.
 
-## License
-This project is licensed under the MIT License.
 
 ## Acknowledgements
 The game was inspired by classic top-down shooter games. Top Down Airplane Shooter draws inspiration from the classic top-down shooter games and aims to provide a fun and engaging gaming experience. The project acknowledges the contributions and resources from the open-source community, which have played a significant role in its development.
